@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Reni
 - 👀 I’m interested in cryptocurrency web applications
 - 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on Bitblocks
+- 💞️ I’m looking to collaborate on Bitblocks: 1. Bridge, 2. NFT's
 - 📫 How to reach me: www.bitblocks.cc/discord
