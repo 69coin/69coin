@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @ReniR256
-- 👀 I’m interested in cryptocurrency web applications
-- 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on Bitblocks: 1. Bridge, 2. NFT's
-- 📫 How to reach me: https://discord.gg/kH7fyyz72U
+- 👋 Hi, welcome to 69 coin
+- 👀 https://69coin.org
